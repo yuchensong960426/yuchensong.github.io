@@ -38,7 +38,7 @@ title: 技术支持
 如果有关于iOS的问题我们也可以一起讨论
 
 
-<h3> 感谢您的打赏 </h3> 
+{% <h3> 感谢您的打赏 </h3> 
 
 ![](/images/payimg/alipayimg.jpg)
 
@@ -50,7 +50,7 @@ title: 技术支持
 email：leoparpan@icloud.com       
 <p> 
 qq: 1499065178     
-<p> 
+<p> %}
 
 {% include comments.html %}
 
